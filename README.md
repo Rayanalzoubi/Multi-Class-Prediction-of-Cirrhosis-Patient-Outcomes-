@@ -1,6 +1,5 @@
 # Cirrhosis Outcomes Prediction using XGBoost
 
-This project was developed as part of the TjDeeD AI Training Program.
 
 ## Project Goal
 Build a multiclass classification model to predict liver cirrhosis patient outcomes:
